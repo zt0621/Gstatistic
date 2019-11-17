@@ -1,3 +1,6 @@
 # Gstatistic
-This is own lib for basic statics before feature engineering
+个人用于数据分析的小包，还在构建中
 
+ViewDistribute: 
+2019-11-17更新：首次提交，用于计算多个变量的分布情况，如果有label，计算各个离散区间的目标率(label/count)。
+待加入的函数：将数据分成不同的组，计算组之间的目标率，分布对比psi等信息。
